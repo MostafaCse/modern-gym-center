@@ -1,0 +1,11 @@
+.hederHighlight{
+    background-image: url('../../../Image/header-image.jpg');
+    height: 620px;
+    background-size: cover;
+    margin-bottom: 150px;
+
+    
+}
+.text-color{
+    color: white;
+}

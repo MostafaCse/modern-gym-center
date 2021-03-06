@@ -1,0 +1,33 @@
+.textHighlight{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+.bg-highlight{
+    background-size: cover;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+}
+#work-out{
+background-image: url('../../../Image/workout.jpg');
+}
+#nutriton{
+    background-image: url('../../../Image/nutrution.jpg');
+}
+#btn-highlight{
+    background-color: yellow;
+    height: 40px;
+    width: 160px;
+  font-weight: 700;
+    border: none;
+    margin-top: 10px;
+
+}
+#btnhighlight{
+    background-color: yellow;
+    height: 40px;
+    width: 160px;
+  font-weight: 700;
+    border: none; 
+}

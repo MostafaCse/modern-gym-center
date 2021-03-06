@@ -1,0 +1,28 @@
+#progession{
+    background-image: url('../../../Image/progression.jpg');
+    height: 350px;
+    background-size:cover;
+
+    
+}
+#nutrition{
+    background-image: url('./../../../Image//nutrution.jpg');
+    height: 350px;
+    background-size:cover;
+    
+}
+#workout{
+    background-image: url('./../../../Image//workout.jpg');
+    height: 350px;
+    background-size:cover;
+ 
+}
+.component-highlight{
+ color: white;
+ text-align: center;
+ padding-top: 60px;
+}
+.row-highlight{
+    margin-bottom: 150px;
+}
+

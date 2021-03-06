@@ -1,0 +1,13 @@
+.footer{
+    background-color: black;
+    height: 450px;
+    color: aliceblue;
+    padding-top: 50px;
+    margin: 0% 0%;
+}
+.color-change{
+    color: whitesmoke;
+}
+.color-change:hover{
+  font-weight: 900;
+}
